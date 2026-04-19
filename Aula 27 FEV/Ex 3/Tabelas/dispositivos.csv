@@ -1,0 +1,5 @@
+id_dispositivo,tipo_dispositivo,id_ambiente
+101,RPI,1
+102,ESP32,2
+103,Orange Pi,3
+104,ESP32,1
